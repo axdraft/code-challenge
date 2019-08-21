@@ -4,7 +4,7 @@ Hello and welcome to one of our code challenges!
 
 The rules are simple:
 
-1. This repository holds a branch called `pricing`
+1. This repository holds a branch called `cases`
 2. We would like you to review the PR without using GitHub's UI
 3. At the end - please submit your review (in a format of your choice that would be useful and easy to read) to team@axdraft.com
 
