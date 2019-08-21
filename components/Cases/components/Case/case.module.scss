@@ -1,0 +1,15 @@
+.block {
+  flex-basis: 33%;
+}
+
+@media screen and (max-width: $device-large-width) {
+  .block {
+    flex-basis: 50%;
+  }
+}
+
+@media screen and (max-width: $device-small-width) {
+  .block {
+    flex-basis: 100%;
+  }
+}
