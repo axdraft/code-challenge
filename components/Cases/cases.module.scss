@@ -1,0 +1,24 @@
+.notFound {
+  padding: 20px 0 20px 0;
+}
+
+.blocks {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.expand {
+  width: 50px;
+  max-height: 40px;
+  margin-top: 33px;
+  transition: .3s transform ease-in, opacity .2s ease-in;
+
+  &.hideCases {
+    transform: rotate(180deg);
+  }
+
+  &:hover {
+    cursor: pointer;
+    opacity: 0.9;
+  }
+}
